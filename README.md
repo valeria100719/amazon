@@ -7,8 +7,12 @@ Amazon's review contains product information provided by the customer such as th
 
 ## Results
 A total of 22 reviews were paid for by Vine and nearly 27,000 were spontaneous.
-13 paid reviews have 5 stars, while 14,475 were unpaid
-Of the 5-star reviews, 59% were paid by Vine and 54% by unpaid by Vine
+
+13 paid reviews have 5 stars, while 14,475 were unpaid.
+
+Of the 5-star reviews, 59% were paid by Vine and 54% by unpaid by Vine.
+
+![alt text](https://github.com/valeria100719/amazon/blob/main/1.png?raw=true)
 
 ## Summary
 
